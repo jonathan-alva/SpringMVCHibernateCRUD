@@ -11,12 +11,13 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Employee & Department Management Screen</title>
+    <title>Employee & Department Management</title>
 </head>
 <body>
 <div align="center">
-    <h1>Employee List <a href="employee">here</a></h1>
-    <h1>Department List <a href="department">here</a></h1>
+    <h1>Employee & Department Management</h1>
+    <h2>Employee List <a href="employee">here</a></h2>
+    <h2>Department List <a href="department">here</a></h2>
 </div>
 </body>
 </html>
